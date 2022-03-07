@@ -8,6 +8,7 @@ Upload your videos fast&easy via YouTube Video Uploader
 1) Сreate your own [YouTube V3 API key](https://blog.hubspot.com/website/how-to-get-youtube-api-key)
 2) Paste data from your secret_client.json to secret.json in the project.
 3) Download NuGet Packages: MaterialDesignThemes, MaterialDesignColors, Google.Apis.YouTube.v3, Google.Apis, Google.Apis.Core, Google.Apis.Auth
+
 PM: 
 ```
 Install-Package MaterialDesignThemes -Version 4.4.0-ci94
